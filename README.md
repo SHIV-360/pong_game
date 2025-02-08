@@ -3,11 +3,6 @@
 run main.py only 
 
 ------------------------------------
-
-Certainly! Here's a sample description for your Pong game GitHub repository README:
-
----
-
 # Pong Game
 
 ## Overview
@@ -47,5 +42,3 @@ python pong_game.py
 Feel free to contribute, report issues, or suggest improvements. Have fun playing Pong!
 
 ---
-
-Adjust the details as needed, and include any additional sections or information that you find relevant for your Pong game GitHub repository README.
